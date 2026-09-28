@@ -82,14 +82,6 @@ The winning model was deployed using Gradio.
 - Gradio
 - Google Colab
 
-## 10. Repository Structure
-
-...
-
-## 11. How to Run
-
-...
-
-## 12. Author
+## 10. Author
 
 Susanth K S
